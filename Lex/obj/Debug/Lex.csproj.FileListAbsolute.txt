@@ -1,0 +1,6 @@
+F:\学习资料\编译原理\Lex\Lex\bin\Debug\Lex.exe.config
+F:\学习资料\编译原理\Lex\Lex\bin\Debug\Lex.exe
+F:\学习资料\编译原理\Lex\Lex\bin\Debug\Lex.pdb
+F:\学习资料\编译原理\Lex\Lex\obj\Debug\Lex.csprojResolveAssemblyReference.cache
+F:\学习资料\编译原理\Lex\Lex\obj\Debug\Lex.exe
+F:\学习资料\编译原理\Lex\Lex\obj\Debug\Lex.pdb
